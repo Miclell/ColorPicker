@@ -1,0 +1,45 @@
+C:\Users\Natalya\source\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.exe
+C:\Users\Natalya\source\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csprojAssemblyReference.cache
+C:\Users\Natalya\source\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.AssemblyInfoInputs.cache
+C:\Users\Natalya\source\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.AssemblyInfo.cs
+C:\Users\Natalya\source\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.deps.json
+C:\Users\Natalya\source\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.runtimeconfig.json
+C:\Users\Natalya\source\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.runtimeconfig.dev.json
+C:\Users\Natalya\source\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.dll
+C:\Users\Natalya\source\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.pdb
+C:\Users\Natalya\source\repos\ColorPicker\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\Natalya\source\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\source\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csproj.CopyComplete
+C:\Users\Natalya\source\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.dll
+C:\Users\Natalya\source\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.pdb
+C:\Users\Natalya\source\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.genruntimeconfig.cache
+G:\Visual Studio\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.exe
+G:\Visual Studio\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.deps.json
+G:\Visual Studio\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.runtimeconfig.json
+G:\Visual Studio\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.runtimeconfig.dev.json
+G:\Visual Studio\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.dll
+G:\Visual Studio\repos\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.pdb
+G:\Visual Studio\repos\ColorPicker\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+G:\Visual Studio\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csprojAssemblyReference.cache
+G:\Visual Studio\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.AssemblyInfoInputs.cache
+G:\Visual Studio\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.AssemblyInfo.cs
+G:\Visual Studio\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csproj.CoreCompileInputs.cache
+G:\Visual Studio\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csproj.CopyComplete
+G:\Visual Studio\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.dll
+G:\Visual Studio\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.pdb
+G:\Visual Studio\repos\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.genruntimeconfig.cache
+D:\hem12\Documents\Visual Studio\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.exe
+D:\hem12\Documents\Visual Studio\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.deps.json
+D:\hem12\Documents\Visual Studio\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.runtimeconfig.json
+D:\hem12\Documents\Visual Studio\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.runtimeconfig.dev.json
+D:\hem12\Documents\Visual Studio\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.dll
+D:\hem12\Documents\Visual Studio\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.pdb
+D:\hem12\Documents\Visual Studio\ColorPicker\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+D:\hem12\Documents\Visual Studio\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csprojAssemblyReference.cache
+D:\hem12\Documents\Visual Studio\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.AssemblyInfoInputs.cache
+D:\hem12\Documents\Visual Studio\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.AssemblyInfo.cs
+D:\hem12\Documents\Visual Studio\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csproj.CoreCompileInputs.cache
+D:\hem12\Documents\Visual Studio\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csproj.CopyComplete
+D:\hem12\Documents\Visual Studio\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.dll
+D:\hem12\Documents\Visual Studio\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.pdb
+D:\hem12\Documents\Visual Studio\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+D:\hem123\Documents\ColorPicker.exe
+D:\hem123\Documents\ColorPicker.dll
+D:\hem123\Documents\ColorPicker.deps.json
+D:\hem123\Documents\ColorPicker.runtimeconfig.json
+D:\hem123\Documents\ColorPicker.pdb
+D:\hem123\Documents\Colorful.Console.dll
